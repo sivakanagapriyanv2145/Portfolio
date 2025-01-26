@@ -1,0 +1,26 @@
+[
+  {
+    "title": "NirFit",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project built to learn modern technologies by creating a fitness tracker app. It helps users log exercises, calculate calories burned, and participate in fitness challenges to stay motivated.",
+    "skills": ["React", "Node", "Firebase"],
+    
+    "source": "https://github.com/sivakanagapriyanv2145/A-Fitness-Tracker-NirFit-.git"
+  },
+  {
+    "title": "Nirsic",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project created to learn new technologies and responsive by building a fun music quiz app. It allows users to test their knowledge of songs, artists, and music trivia through interactive quizzes and challenges.",
+    "skills": ["React", "Node","JavaScript"],
+    
+    "source": "https://github.com/sivakanagapriyanv2145/Music-_Quiz.git"
+  },
+  {
+    "title": "Ar Project",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project developed to explore augmented reality by creating an interactive keyboard app. Users can play a virtual keyboard using AR, learning and experimenting with musical notes and melodies in a fun, immersive way.",
+    "skills": ["Unity", "c#", "Frontend"],
+    
+    "source": "https://github.com/sivakanagapriyanv2145/ArMiniProject.git"
+  }
+]
